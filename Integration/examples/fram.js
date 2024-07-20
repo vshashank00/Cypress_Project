@@ -1,4 +1,3 @@
-/// <reference types="Cypress"/>
 /// <reference types="cypress-iframe" />
 import 'cypress-iframe'
 describe('frame',function(){
